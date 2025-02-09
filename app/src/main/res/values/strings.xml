@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">30 Days of Recipes</string>
+
+    <string name="dish_1">Dish 1</string>
+    <string name="dish1_name">Chapathi</string>
+    <string name="desc1">A soft and healthy Indian flatbread.</string>
+
+    <string name="dish_2">Dish 2</string>
+    <string name="dish2_name">Chapathi with Fish Gravy</string>
+    <string name="desc2">A delicious combination of chapathi and spicy fish gravy.</string>
+
+    <string name="dish_3">Dish 3</string>
+    <string name="dish3_name">Chicken BBQ</string>
+    <string name="desc3">Smoky and juicy grilled chicken barbecue.</string>
+
+    <string name="dish_4">Dish 4</string>
+    <string name="dish4_name">Chicken Chettinad Masala</string>
+    <string name="desc4">A flavorful and spicy Chettinad-style chicken curry.</string>
+
+    <string name="dish_5">Dish 5</string>
+    <string name="dish5_name">Chicken Naatukozhi Gravy</string>
+    <string name="desc5">Traditional country chicken gravy with rich spices.</string>
+
+    <string name="dish_6">Dish 6</string>
+    <string name="dish6_name">Chicken Pepper Masala</string>
+    <string name="desc6">A spicy and peppery chicken masala dish.</string>
+
+    <string name="dish_7">Dish 7</string>
+    <string name="dish7_name">Chilli Paratha</string>
+    <string name="desc7">A street-style spicy and crispy paratha dish.</string>
+
+    <string name="dish_8">Dish 8</string>
+    <string name="dish8_name">Diet Chicken</string>
+    <string name="desc8">A healthy and protein-rich diet chicken dish.</string>
+
+    <string name="dish_9">Dish 9</string>
+    <string name="dish9_name">Egg Masala</string>
+    <string name="desc9">A rich and flavorful egg masala curry.</string>
+
+    <string name="dish_10">Dish 10</string>
+    <string name="dish10_name">Fish BBQ</string>
+    <string name="desc10">Grilled fish with smoky barbecue flavors.</string>
+
+    <string name="dish_11">Dish 11</string>
+    <string name="dish11_name">Chapathi</string>
+    <string name="desc11">A soft and healthy Indian flatbread.</string>
+
+    <string name="dish_12">Dish 12</string>
+    <string name="dish12_name">Chapathi with Fish Gravy</string>
+    <string name="desc12">A delicious combination of chapathi and spicy fish gravy.</string>
+
+    <string name="dish_13">Dish 13</string>
+    <string name="dish13_name">Chicken BBQ</string>
+    <string name="desc13">Smoky and juicy grilled chicken barbecue.</string>
+
+    <string name="dish_14">Dish 14</string>
+    <string name="dish14_name">Chicken Chettinad Masala</string>
+    <string name="desc14">A flavorful and spicy Chettinad-style chicken curry.</string>
+
+    <string name="dish_15">Dish 15</string>
+    <string name="dish15_name">Chicken Naatukozhi Gravy</string>
+    <string name="desc15">Traditional country chicken gravy with rich spices.</string>
+
+    <string name="dish_16">Dish 16</string>
+    <string name="dish16_name">Chicken Pepper Masala</string>
+    <string name="desc16">A spicy and peppery chicken masala dish.</string>
+
+    <string name="dish_17">Dish 17</string>
+    <string name="dish17_name">Chilli Paratha</string>
+    <string name="desc17">A street-style spicy and crispy paratha dish.</string>
+
+    <string name="dish_18">Dish 18</string>
+    <string name="dish18_name">Diet Chicken</string>
+    <string name="desc18">A healthy and protein-rich diet chicken dish.</string>
+
+    <string name="dish_19">Dish 19</string>
+    <string name="dish19_name">Egg Masala</string>
+    <string name="desc19">A rich and flavorful egg masala curry.</string>
+
+    <string name="dish_20">Dish 20</string>
+    <string name="dish20_name">Fish BBQ</string>
+    <string name="desc20">Grilled fish with smoky barbecue flavors.</string>
+
+    <string name="dish_21">Dish 21</string>
+    <string name="dish21_name">Prawn Pepper Masala</string>
+    <string name="desc21">A delicious prawn dish cooked with pepper and spices.</string>
+
+    <string name="dish_22">Dish 22</string>
+    <string name="dish22_name">Quail Gravy</string>
+    <string name="desc22">A rich and flavorful curry made with quail meat.</string>
+
+    <string name="dish_23">Dish 23</string>
+    <string name="dish23_name">White Sauce Pasta</string>
+    <string name="desc23">Creamy and cheesy pasta cooked in white sauce.</string>
+</resources>
