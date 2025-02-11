@@ -37,7 +37,7 @@ import com.example.a30daysofrecipes.model.Recipes
 
 @Composable
 fun DishList(recipes: List<Recipes>, contentPadding: PaddingValues){
-    LazyColumn{
+    LazyColumn(contentPadding = contentPadding) {
         items(recipes) { recipe ->
             DishItem(recipe)
         }
@@ -51,7 +51,7 @@ fun DishTopAppBar() {
         title = {
             Text(
                 text = stringResource(R.string.app_name), // App name
-                style = MaterialTheme.typography.displayLarge // DisplayLarge style
+                style = MaterialTheme.typography.titleLarge // DisplayLarge style
             )
         }
     )
