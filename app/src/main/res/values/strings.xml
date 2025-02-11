@@ -1,95 +1,195 @@
 <resources>
+    <!-- App Name -->
     <string name="app_name">30 Days of Recipes</string>
 
+    <!-- 🫓 Indian Breads -->
     <string name="dish_1">Dish 1</string>
-    <string name="dish1_name">Chapathi</string>
-    <string name="desc1">A soft and healthy Indian flatbread.</string>
+    <string name="dish1_name">Aloo Chapathi</string>
+    <string name="desc1">
+        Chapathi is a soft and healthy Indian flatbread
+        made from whole wheat flour stuffed with potato and cooked on a
+        tawa. It pairs well with paneer butter masala.
+    </string>
 
     <string name="dish_2">Dish 2</string>
     <string name="dish2_name">Chapathi with Fish Gravy</string>
-    <string name="desc2">A delicious combination of chapathi and spicy fish gravy.</string>
-
-    <string name="dish_3">Dish 3</string>
-    <string name="dish3_name">Chicken BBQ</string>
-    <string name="desc3">Smoky and juicy grilled chicken barbecue.</string>
-
-    <string name="dish_4">Dish 4</string>
-    <string name="dish4_name">Chicken Chettinad Masala</string>
-    <string name="desc4">A flavorful and spicy Chettinad-style chicken curry.</string>
-
-    <string name="dish_5">Dish 5</string>
-    <string name="dish5_name">Chicken Naatukozhi Gravy</string>
-    <string name="desc5">Traditional country chicken gravy with rich spices.</string>
-
-    <string name="dish_6">Dish 6</string>
-    <string name="dish6_name">Chicken Pepper Masala</string>
-    <string name="desc6">A spicy and peppery chicken masala dish.</string>
+    <string name="desc2">
+        A delightful combination of chapathi and rich
+        fish gravy, blending soft textures with a spicy
+        and tangy curry for a unique taste experience.
+    </string>
 
     <string name="dish_7">Dish 7</string>
     <string name="dish7_name">Chilli Paratha</string>
-    <string name="desc7">A street-style spicy and crispy paratha dish.</string>
+    <string name="desc7">
+        Chilli paratha is a spicy street-style dish made
+        by tearing flaky paratha and tossing it in a
+        fiery sauce, offering a burst of bold flavors.
+    </string>
 
+    <!-- 🍗 Chicken Dishes -->
+    <string name="dish_3">Dish 3</string>
+    <string name="dish3_name">Chicken BBQ</string>
+    <string name="desc3">
+        Smoky and juicy, this grilled chicken BBQ is
+        marinated with aromatic spices and cooked
+        to perfection, delivering a delicious charred flavor.
+    </string>
+
+    <string name="dish_4">Dish 4</string>
+    <string name="dish4_name">Chicken Gravy</string>
+    <string name="desc4">
+        A rich, flavorful chicken gravy slow-cooked
+        with onions, tomatoes, and warm spices,
+        making it perfect with rice or roti.
+    </string>
+
+    <string name="dish_5">Dish 5</string>
+    <string name="dish5_name">Chicken Naatukozhi Gravy</string>
+    <string name="desc5">
+        A traditional South Indian country chicken
+        curry packed with bold spices, creating a
+        deeply aromatic and spicy taste.
+    </string>
+
+    <string name="dish_6">Dish 6</string>
+    <string name="dish6_name">Chicken Pepper Masala</string>
+    <string name="desc6">
+        This fiery black pepper chicken masala is
+        packed with heat and bold flavors, offering
+        a spicy kick that pairs well with roti or rice.
+    </string>
+
+    <string name="dish_12">Dish 12</string>
+    <string name="dish12_name">Guntur Chicken Gravy</string>
+    <string name="desc12">
+        A spicy Andhra-style chicken curry infused
+        with Guntur chilies, giving it a rich red color
+        and an intense, flavorful heat.
+    </string>
+
+    <!-- 🍳 Egg & Diet Dishes -->
     <string name="dish_8">Dish 8</string>
     <string name="dish8_name">Diet Chicken</string>
-    <string name="desc8">A healthy and protein-rich diet chicken dish.</string>
+    <string name="desc8">
+        A protein-packed dish made with skinless
+        chicken, lightly seasoned and grilled,
+        offering a healthy and delicious meal.
+    </string>
 
     <string name="dish_9">Dish 9</string>
     <string name="dish9_name">Egg Masala</string>
-    <string name="desc9">A rich and flavorful egg masala curry.</string>
+    <string name="desc9">
+        A rich and spicy egg masala cooked with
+        tomatoes, onions, and aromatic spices,
+        making it perfect for rice or roti.
+    </string>
 
+    <!-- 🦐 Seafood Dishes -->
     <string name="dish_10">Dish 10</string>
     <string name="dish10_name">Fish BBQ</string>
-    <string name="desc10">Grilled fish with smoky barbecue flavors.</string>
+    <string name="desc10">
+        Grilled fish marinated in smoky barbecue
+        flavors, infused with aromatic herbs and
+        spices, making it a protein-packed delight.
+    </string>
 
     <string name="dish_11">Dish 11</string>
-    <string name="dish11_name">Chapathi</string>
-    <string name="desc11">A soft and healthy Indian flatbread.</string>
-
-    <string name="dish_12">Dish 12</string>
-    <string name="dish12_name">Chapathi with Fish Gravy</string>
-    <string name="desc12">A delicious combination of chapathi and spicy fish gravy.</string>
-
-    <string name="dish_13">Dish 13</string>
-    <string name="dish13_name">Chicken BBQ</string>
-    <string name="desc13">Smoky and juicy grilled chicken barbecue.</string>
-
-    <string name="dish_14">Dish 14</string>
-    <string name="dish14_name">Chicken Chettinad Masala</string>
-    <string name="desc14">A flavorful and spicy Chettinad-style chicken curry.</string>
-
-    <string name="dish_15">Dish 15</string>
-    <string name="dish15_name">Chicken Naatukozhi Gravy</string>
-    <string name="desc15">Traditional country chicken gravy with rich spices.</string>
-
-    <string name="dish_16">Dish 16</string>
-    <string name="dish16_name">Chicken Pepper Masala</string>
-    <string name="desc16">A spicy and peppery chicken masala dish.</string>
-
-    <string name="dish_17">Dish 17</string>
-    <string name="dish17_name">Chilli Paratha</string>
-    <string name="desc17">A street-style spicy and crispy paratha dish.</string>
-
-    <string name="dish_18">Dish 18</string>
-    <string name="dish18_name">Diet Chicken</string>
-    <string name="desc18">A healthy and protein-rich diet chicken dish.</string>
-
-    <string name="dish_19">Dish 19</string>
-    <string name="dish19_name">Egg Masala</string>
-    <string name="desc19">A rich and flavorful egg masala curry.</string>
-
-    <string name="dish_20">Dish 20</string>
-    <string name="dish20_name">Fish BBQ</string>
-    <string name="desc20">Grilled fish with smoky barbecue flavors.</string>
+    <string name="dish11_name">Fish Fry</string>
+    <string name="desc11">
+        A crispy and flavorful South Indian-style
+        fish fry, coated with a rich spice mix and
+        shallow-fried until golden brown.
+    </string>
 
     <string name="dish_21">Dish 21</string>
     <string name="dish21_name">Prawn Pepper Masala</string>
-    <string name="desc21">A delicious prawn dish cooked with pepper and spices.</string>
+    <string name="desc21">
+        Juicy prawns are tossed in a peppery and
+        spicy masala, enhanced with garlic and
+        aromatic spices, making it a fiery treat.
+    </string>
+
+    <!-- 🍖 Mutton & Meat Dishes -->
+    <string name="dish_19">Dish 19</string>
+    <string name="dish19_name">Mutton Gravy Rice</string>
+    <string name="desc19">
+        A rich and spicy mutton curry, slow-cooked
+        for deep flavors, best enjoyed with steamed
+        rice or soft parathas for a fulfilling meal.
+    </string>
 
     <string name="dish_22">Dish 22</string>
     <string name="dish22_name">Quail Gravy</string>
-    <string name="desc22">A rich and flavorful curry made with quail meat.</string>
+    <string name="desc22">
+        A flavorful quail curry cooked with aromatic
+        spices, delivering a tender texture and a
+        deep, earthy taste unlike any other meat.
+    </string>
+
+    <string name="dish_20">Dish 20</string>
+    <string name="dish20_name">Paneer Butter Masala</string>
+    <string name="desc20">
+        A creamy and rich North Indian curry made
+        with paneer cubes in a velvety tomato-based
+        butter sauce, best served with naan or rice.
+    </string>
+
+    <!-- 🍰 Desserts -->
+    <string name="dish_13">Dish 13</string>
+    <string name="dish13_name">Homemade Brownie</string>
+    <string name="desc13">
+        A rich and fudgy homemade brownie, packed
+        with chocolate flavor, offering the perfect
+        balance of a crisp top and a gooey center.
+    </string>
+
+    <string name="dish_14">Dish 14</string>
+    <string name="dish14_name">Homemade Cake</string>
+    <string name="desc14">
+        A soft and fluffy homemade cake, made
+        with love, fresh ingredients, and a moist
+        texture that melts in your mouth.
+    </string>
+
+    <string name="dish_15">Dish 15</string>
+    <string name="dish15_name">Homemade Falooda</string>
+    <string name="desc15">
+        A refreshing and indulgent dessert drink,
+        layered with vermicelli, rose syrup, milk,
+        ice cream, and soaked basil seeds.
+    </string>
+
+    <string name="dish_16">Dish 16</string>
+    <string name="dish16_name">Homemade Jelly</string>
+    <string name="desc16">
+        A sweet and colorful homemade jelly,
+        made with fresh fruit juice and gelatin,
+        offering a soft and wobbly texture.
+    </string>
+
+    <string name="dish_17">Dish 17</string>
+    <string name="dish17_name">Homemade Pizza</string>
+    <string name="desc17">
+        A cheesy and delicious homemade pizza,
+        made with fresh dough, flavorful toppings,
+        and baked to crispy perfection.
+    </string>
+
+    <string name="dish_18">Dish 18</string>
+    <string name="dish18_name">Kaju Katli</string>
+    <string name="desc18">
+        A classic Indian sweet made with cashew
+        paste and sugar, offering a melt-in-the-mouth
+        texture with a rich, nutty taste.
+    </string>
 
     <string name="dish_23">Dish 23</string>
     <string name="dish23_name">White Sauce Pasta</string>
-    <string name="desc23">Creamy and cheesy pasta cooked in white sauce.</string>
+    <string name="desc23">
+        A creamy and cheesy white sauce pasta,
+        cooked with butter, garlic, and milk,
+        delivering a smooth, rich, and comforting taste.
+    </string>
+
 </resources>

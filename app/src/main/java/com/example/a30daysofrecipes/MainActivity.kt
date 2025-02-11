@@ -5,10 +5,14 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.example.a30daysofrecipes.model.RecipesRepository
+import com.example.a30daysofrecipes.ui.theme.DishList
+import com.example.a30daysofrecipes.ui.theme.DishTopAppBar
 import com.example.a30daysofrecipes.ui.theme._30DaysOfRecipesTheme
 
 class MainActivity : ComponentActivity() {
@@ -27,6 +31,17 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun MainApp(modifier: Modifier = Modifier) {
+    Scaffold(
+        topBar = {
+            DishTopAppBar()
+        }
+    ) { innerPadding ->
+
+        DishList(
+            RecipesRepository.dishes,
+            contentPadding = innerPadding
+        )
+    }
 }
 
 @Preview()
