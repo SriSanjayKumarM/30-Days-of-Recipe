@@ -17,10 +17,12 @@ import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
+import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.painterResource
@@ -53,7 +55,10 @@ fun DishTopAppBar() {
                 text = stringResource(R.string.app_name), // App name
                 style = MaterialTheme.typography.titleLarge // DisplayLarge style
             )
-        }
+        },
+        colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
+            containerColor = Color(0xFFFFA726) // Change this to any color
+        )
     )
 }
 
